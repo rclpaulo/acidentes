@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Navio MV Stellar Banner (2020) — Acidentes na Baía de São Marcos</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+  <header>
+    <div class="header-content">
+      <a href="../index.html" class="voltar">← Voltar para todos os acidentes</a>
+      <h1>Mineraleiro MV Stellar Banner</h1>
+      <p>Encalhe intencional de um gigante VLOC após avarias no casco na saída do Terminal de Ponta da Madeira e operação histórica de salvatagem.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="ficha">
+      <div><strong>Data do Encalhe</strong>24/25 de fevereiro de 2020</div>
+      <div><strong>Localização</strong>Saída do canal da Baía de São Marcos (~100 km da costa)</div>
+      <div><strong>Embarcação</strong>VLOC (340m • Armadora Polaris Shipping / Bandeira Ilhas Marshall)</div>
+      <div><strong>Carga a Bordo</strong>~295.000 toneladas de minério de ferro + ~3.900 m³ de óleo</div>
+    </div>
+
+    <figure class="foto-destaque">
+      <img src="../assets/img/stellar-banner.jpg" alt="Navio MV Stellar Banner encalhado e adernado na costa do Maranhão em 2020">
+      <figcaption>Vista aérea do mineraleiro MV Stellar Banner adernado após manobra de encalhe intencional na costa do Maranhão, em 2020.</figcaption>
+    </figure>
+
+    <section>
+      <h2>O que aconteceu</h2>
+      <p>Na noite de 24 de fevereiro de 2020, o navio mineraleiro de grande porte (VLOC) <em>MV Stellar Banner</em>, com 340 metros de comprimento e pertencente à empresa sul-coreana Polaris Shipping, partiu do Terminal Marítimo de Ponta da Madeira (São Luís) carregado com cerca de 295 mil toneladas de minério de ferro da Vale com destino a Qingdao, na China.</p>
+      <p>Pouco tempo após deixar o canal de acesso da Baía de São Marcos, a embarcação sofreu avarias severas na proa (fissuras que ultrapassaram 25 metros de extensão), provocando o alagamento de compartimentos internos e o adernamento acentuado do casco.</p>
+      <p>Para evitar que o navio afundasse descontroladamente em meio à rota de navegação, o comandante realizou uma manobra de emergência e encalhou o gigante propositalmente em um banco de areia raso a cerca de 100 km (60 milhas náuticas) de São Luís. Os 20 tripulantes foram evacuados em segurança.</p>
+    </section>
+
+    <section>
+      <h2>Operação de Salvatagem e Afundamento Controlado</h2>
+      <ul>
+        <li><strong>Retirada do combustível:</strong> Para evitar um desastre ambiental de grandes proporções no litoral maranhense, equipes especializadas removeram cerca de 3.900 metros cúbicos de óleo combustível e lubrificantes dos tanques do navio.</li>
+        <li><strong>Alívio de carga (transbordo):</strong> Mais de 145 mil toneladas de minério de ferro foram retiradas dos porões com apoio de embarcações e guindastes oceânicos ao longo de três meses.</li>
+        <li><strong>Reflutuação e perícia:</strong> Em junho de 2020, após recuperar a flutuabilidade, o navio foi desencalhado e rebocado para águas mais profundas, onde vistorias técnicas concluíram que os danos estruturais eram irreversíveis.</li>
+        <li><strong>Afundamento controlado:</strong> Em <strong>12 de junho de 2020</strong>, sob coordenação da Marinha do Brasil, Ibama e órgãos ambientais, o <em>Stellar Banner</em> foi rebocado até uma zona abissal (a cerca de 150 km da costa e mais de 2.000 metros de profundidade) e afundado de forma controlada.</li>
+      </ul>
+      <div class="destaque">
+        <strong>Sem vítimas e sem maré negra:</strong> Graças à rápida evacuação da tripulação e à força-tarefa de retirada de óleo coordenada pela Capitania dos Portos do Maranhão, o acidente foi encerrado sem mortes e sem contaminação das praias maranhenses.
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Projeto Histórico e Portuário • Baía de São Marcos, Maranhão</p>
+    <p class="autor">@CMTE Paulo Leite</p>
+  </footer>
+
+</body>
+</html>
